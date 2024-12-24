@@ -1,0 +1,60 @@
+# ------------------------
+# OS Generated Files
+# ------------------------
+.DS_Store
+Thumbs.db
+
+# ------------------------
+# Logs
+# ------------------------
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# ------------------------
+# Runtime Data
+# ------------------------
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# ------------------------
+# Environment Variables
+# ------------------------
+.env
+.env.*.local
+.env.local
+
+# ------------------------
+# Node
+# ------------------------
+node_modules/
+package-lock.json
+yarn.lock
+
+# ------------------------
+# Build/Production
+# ------------------------
+dist/
+build/
+out/
+
+# ------------------------
+# Coverage
+# ------------------------
+coverage/
+
+# ------------------------
+# Editors and IDEs
+# ------------------------
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
